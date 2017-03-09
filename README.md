@@ -4,7 +4,7 @@ Performing various time series analyses on datasets using R.
 
 TimeSeries1 - decomposition analysis on beer sales
 
-TimesSeries2 - calculating which statistic is the best predictor of winning a baseball
+TimeSeries2 - calculating which statistic is the best predictor of winning a baseball
 
 TimeSeries3 - calculating regression on car horsepower vs. mpg
 
